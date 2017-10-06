@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="31869bb9-c0ed-4a3f-9586-2720b87e0df1" name="genuse1.lyle.smu.edu" url="http://genuse1.lyle.smu.edu">
+        <fileTransfer host="genuse1.lyle.smu.edu" port="22" rootFolder="/users5/cse/prestont" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
